@@ -18,7 +18,7 @@
         "noUnusedParameters": false,
         "outDir": "dist",
         "removeComments": false,
-        "sourceMap": false,
+        "sourceMap": true,
         "strict": true,
         "suppressImplicitAnyIndexErrors": true,
         "target": "es5"
